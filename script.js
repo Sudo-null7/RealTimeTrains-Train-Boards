@@ -1,5 +1,5 @@
 window.onload = function() {
-    fetch('https://null.parr.lol/RealTimeTrains-Train-Boards/demo.json')
+    fetch('demo.json')
     // edit above
       .then(response => response.json())
       .then(trains => {
