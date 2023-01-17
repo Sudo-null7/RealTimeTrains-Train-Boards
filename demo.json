@@ -1,0 +1,2133 @@
+{
+  "location": {
+    "name": "Paddington Crossrail",
+    "crs": "PDX",
+    "tiploc": [
+      "PADTLL",
+      "PADTON"
+    ],
+    "country": "gb",
+    "system": "nr"
+  },
+  "filter": null,
+  "services": [
+    {
+      "locationDetail": {
+        "realtimeActivated": true,
+        "tiploc": "PADTLL",
+        "crs": "PAD",
+        "description": "London Paddington",
+        "gbttBookedArrival": "1856",
+        "gbttBookedDeparture": "1857",
+        "origin": [
+          {
+            "tiploc": "HTRWTM4",
+            "description": "Heathrow Airport Terminal 4",
+            "workingTime": "181600",
+            "publicTime": "1816"
+          }
+        ],
+        "destination": [
+          {
+            "tiploc": "ABWDXR",
+            "description": "Abbey Wood",
+            "workingTime": "192600",
+            "publicTime": "1926"
+          }
+        ],
+        "isCall": true,
+        "isPublicCall": true,
+        "realtimeArrival": "1855",
+        "realtimeArrivalActual": true,
+        "realtimeDeparture": "1857",
+        "realtimeDepartureActual": false,
+        "platform": "A",
+        "platformConfirmed": true,
+        "platformChanged": false,
+        "displayAs": "CALL"
+      },
+      "serviceUid": "G88435",
+      "runDate": "2023-01-17",
+      "trainIdentity": "9U01",
+      "runningIdentity": "9U01",
+      "atocCode": "XR",
+      "atocName": "Elizabeth line",
+      "serviceType": "train",
+      "isPassenger": true
+    },
+    {
+      "locationDetail": {
+        "realtimeActivated": true,
+        "tiploc": "PADTON",
+        "crs": "PAD",
+        "description": "London Paddington",
+        "gbttBookedDeparture": "1857",
+        "origin": [
+          {
+            "tiploc": "PADTON",
+            "description": "London Paddington",
+            "workingTime": "185700",
+            "publicTime": "1857"
+          }
+        ],
+        "destination": [
+          {
+            "tiploc": "HEREFRD",
+            "description": "Hereford",
+            "workingTime": "220400",
+            "publicTime": "2204"
+          }
+        ],
+        "isCall": true,
+        "isPublicCall": true,
+        "realtimeDeparture": "1857",
+        "realtimeDepartureActual": false,
+        "platform": "2",
+        "platformConfirmed": true,
+        "platformChanged": false,
+        "serviceLocation": "AT_PLAT",
+        "displayAs": "ORIGIN"
+      },
+      "serviceUid": "G37189",
+      "runDate": "2023-01-17",
+      "trainIdentity": "1W04",
+      "runningIdentity": "1W04",
+      "atocCode": "GW",
+      "atocName": "Great Western Railway",
+      "serviceType": "train",
+      "isPassenger": true
+    },
+    {
+      "locationDetail": {
+        "realtimeActivated": true,
+        "tiploc": "PADTLL",
+        "crs": "PAD",
+        "description": "London Paddington",
+        "gbttBookedDeparture": "1900",
+        "origin": [
+          {
+            "tiploc": "PADTLL",
+            "description": "London Paddington",
+            "workingTime": "190000",
+            "publicTime": "1900"
+          }
+        ],
+        "destination": [
+          {
+            "tiploc": "SHENFLD",
+            "description": "Shenfield",
+            "workingTime": "195300",
+            "publicTime": "1953"
+          }
+        ],
+        "isCall": true,
+        "isPublicCall": true,
+        "realtimeDeparture": "1900",
+        "realtimeDepartureActual": false,
+        "platform": "A",
+        "platformConfirmed": false,
+        "platformChanged": false,
+        "displayAs": "ORIGIN"
+      },
+      "serviceUid": "G88855",
+      "runDate": "2023-01-17",
+      "trainIdentity": "9W02",
+      "runningIdentity": "9W02",
+      "atocCode": "XR",
+      "atocName": "Elizabeth line",
+      "serviceType": "train",
+      "isPassenger": true
+    },
+    {
+      "locationDetail": {
+        "realtimeActivated": true,
+        "tiploc": "PADTLL",
+        "crs": "PAD",
+        "description": "London Paddington",
+        "gbttBookedArrival": "1859",
+        "gbttBookedDeparture": "1900",
+        "origin": [
+          {
+            "tiploc": "ABWDXR",
+            "description": "Abbey Wood",
+            "workingTime": "183000",
+            "publicTime": "1830"
+          }
+        ],
+        "destination": [
+          {
+            "tiploc": "MDNHEAD",
+            "description": "Maidenhead",
+            "workingTime": "194300",
+            "publicTime": "1943"
+          }
+        ],
+        "isCall": true,
+        "isPublicCall": true,
+        "realtimeArrival": "1859",
+        "realtimeArrivalActual": false,
+        "realtimeDeparture": "1900",
+        "realtimeDepartureActual": false,
+        "platform": "B",
+        "platformConfirmed": false,
+        "platformChanged": false,
+        "displayAs": "CALL"
+      },
+      "serviceUid": "G88053",
+      "runDate": "2023-01-17",
+      "trainIdentity": "9N04",
+      "runningIdentity": "9N04",
+      "atocCode": "XR",
+      "atocName": "Elizabeth line",
+      "serviceType": "train",
+      "isPassenger": true
+    },
+    {
+      "locationDetail": {
+        "realtimeActivated": true,
+        "tiploc": "PADTON",
+        "crs": "PAD",
+        "description": "London Paddington",
+        "gbttBookedDeparture": "1902",
+        "origin": [
+          {
+            "tiploc": "PADTON",
+            "description": "London Paddington",
+            "workingTime": "190200",
+            "publicTime": "1902"
+          }
+        ],
+        "destination": [
+          {
+            "tiploc": "BRSTLTM",
+            "description": "Bristol Temple Meads",
+            "workingTime": "204000",
+            "publicTime": "2040"
+          }
+        ],
+        "isCall": true,
+        "isPublicCall": true,
+        "realtimeDeparture": "1902",
+        "realtimeDepartureActual": false,
+        "platform": "9",
+        "platformConfirmed": true,
+        "platformChanged": true,
+        "serviceLocation": "AT_PLAT",
+        "displayAs": "ORIGIN"
+      },
+      "serviceUid": "G36833",
+      "runDate": "2023-01-17",
+      "trainIdentity": "1C30",
+      "runningIdentity": "1C30",
+      "atocCode": "GW",
+      "atocName": "Great Western Railway",
+      "serviceType": "train",
+      "isPassenger": true
+    },
+    {
+      "locationDetail": {
+        "realtimeActivated": true,
+        "tiploc": "PADTLL",
+        "crs": "PAD",
+        "description": "London Paddington",
+        "gbttBookedArrival": "1902",
+        "gbttBookedDeparture": "1903",
+        "origin": [
+          {
+            "tiploc": "RDNGSTN",
+            "description": "Reading",
+            "workingTime": "175800",
+            "publicTime": "1758"
+          }
+        ],
+        "destination": [
+          {
+            "tiploc": "ABWDXR",
+            "description": "Abbey Wood",
+            "workingTime": "193200",
+            "publicTime": "1932"
+          }
+        ],
+        "isCall": true,
+        "isPublicCall": true,
+        "realtimeArrival": "1902",
+        "realtimeArrivalActual": false,
+        "realtimeDeparture": "1903",
+        "realtimeDepartureActual": false,
+        "platform": "A",
+        "platformConfirmed": false,
+        "platformChanged": false,
+        "displayAs": "CALL"
+      },
+      "serviceUid": "G88440",
+      "runDate": "2023-01-17",
+      "trainIdentity": "9U03",
+      "runningIdentity": "9U03",
+      "atocCode": "XR",
+      "atocName": "Elizabeth line",
+      "serviceType": "train",
+      "isPassenger": true
+    },
+    {
+      "locationDetail": {
+        "realtimeActivated": true,
+        "tiploc": "PADTON",
+        "crs": "PAD",
+        "description": "London Paddington",
+        "gbttBookedDeparture": "1904",
+        "origin": [
+          {
+            "tiploc": "PADTON",
+            "description": "London Paddington",
+            "workingTime": "190400",
+            "publicTime": "1904"
+          }
+        ],
+        "destination": [
+          {
+            "tiploc": "PLYMTH",
+            "description": "Plymouth",
+            "workingTime": "222300",
+            "publicTime": "2223"
+          }
+        ],
+        "isCall": true,
+        "isPublicCall": true,
+        "realtimeDeparture": "1904",
+        "realtimeDepartureActual": false,
+        "platform": "1",
+        "platformConfirmed": true,
+        "platformChanged": true,
+        "serviceLocation": "AT_PLAT",
+        "displayAs": "ORIGIN"
+      },
+      "serviceUid": "G39115",
+      "runDate": "2023-01-17",
+      "trainIdentity": "1C94",
+      "runningIdentity": "1C94",
+      "atocCode": "GW",
+      "atocName": "Great Western Railway",
+      "serviceType": "train",
+      "isPassenger": true
+    },
+    {
+      "locationDetail": {
+        "realtimeActivated": true,
+        "tiploc": "PADTLL",
+        "crs": "PAD",
+        "description": "London Paddington",
+        "gbttBookedArrival": "1905",
+        "gbttBookedDeparture": "1906",
+        "origin": [
+          {
+            "tiploc": "ABWDXR",
+            "description": "Abbey Wood",
+            "workingTime": "183600",
+            "publicTime": "1836"
+          }
+        ],
+        "destination": [
+          {
+            "tiploc": "HTRWTM5",
+            "description": "Heathrow Airport Terminal 5",
+            "workingTime": "194000",
+            "publicTime": "1940"
+          }
+        ],
+        "isCall": true,
+        "isPublicCall": true,
+        "realtimeArrival": "1905",
+        "realtimeArrivalActual": false,
+        "realtimeDeparture": "1906",
+        "realtimeDepartureActual": false,
+        "platform": "B",
+        "platformConfirmed": false,
+        "platformChanged": false,
+        "displayAs": "CALL"
+      },
+      "serviceUid": "G88239",
+      "runDate": "2023-01-17",
+      "trainIdentity": "9T06",
+      "runningIdentity": "9T06",
+      "atocCode": "XR",
+      "atocName": "Elizabeth line",
+      "serviceType": "train",
+      "isPassenger": true
+    },
+    {
+      "locationDetail": {
+        "realtimeActivated": true,
+        "tiploc": "PADTLL",
+        "crs": "PAD",
+        "description": "London Paddington",
+        "gbttBookedDeparture": "1906",
+        "origin": [
+          {
+            "tiploc": "PADTLL",
+            "description": "London Paddington",
+            "workingTime": "190600",
+            "publicTime": "1906"
+          }
+        ],
+        "destination": [
+          {
+            "tiploc": "SHENFLD",
+            "description": "Shenfield",
+            "workingTime": "200000",
+            "publicTime": "2000"
+          }
+        ],
+        "isCall": true,
+        "isPublicCall": true,
+        "realtimeDeparture": "1906",
+        "realtimeDepartureActual": false,
+        "platform": "A",
+        "platformConfirmed": false,
+        "platformChanged": false,
+        "displayAs": "ORIGIN"
+      },
+      "serviceUid": "G88859",
+      "runDate": "2023-01-17",
+      "trainIdentity": "9W04",
+      "runningIdentity": "9W04",
+      "atocCode": "XR",
+      "atocName": "Elizabeth line",
+      "serviceType": "train",
+      "isPassenger": true
+    },
+    {
+      "locationDetail": {
+        "realtimeActivated": true,
+        "tiploc": "PADTON",
+        "crs": "PAD",
+        "description": "London Paddington",
+        "gbttBookedDeparture": "1907",
+        "origin": [
+          {
+            "tiploc": "PADTON",
+            "description": "London Paddington",
+            "workingTime": "190700",
+            "publicTime": "1907"
+          }
+        ],
+        "destination": [
+          {
+            "tiploc": "BEDYN",
+            "description": "Bedwyn",
+            "workingTime": "201500",
+            "publicTime": "2015"
+          }
+        ],
+        "isCall": true,
+        "isPublicCall": true,
+        "realtimeDeparture": "1907",
+        "realtimeDepartureActual": false,
+        "platform": "2",
+        "platformConfirmed": true,
+        "platformChanged": false,
+        "serviceLocation": "AT_PLAT",
+        "displayAs": "ORIGIN"
+      },
+      "serviceUid": "G36995",
+      "runDate": "2023-01-17",
+      "trainIdentity": "1K26",
+      "runningIdentity": "1K26",
+      "atocCode": "GW",
+      "atocName": "Great Western Railway",
+      "serviceType": "train",
+      "isPassenger": true
+    },
+    {
+      "locationDetail": {
+        "realtimeActivated": true,
+        "tiploc": "PADTLL",
+        "crs": "PAD",
+        "description": "London Paddington",
+        "gbttBookedArrival": "1908",
+        "gbttBookedDeparture": "1909",
+        "origin": [
+          {
+            "tiploc": "HTRWTM5",
+            "description": "Heathrow Airport Terminal 5",
+            "workingTime": "183100",
+            "publicTime": "1831"
+          }
+        ],
+        "destination": [
+          {
+            "tiploc": "ABWDXR",
+            "description": "Abbey Wood",
+            "workingTime": "193800",
+            "publicTime": "1938"
+          }
+        ],
+        "isCall": true,
+        "isPublicCall": true,
+        "realtimeArrival": "1908",
+        "realtimeArrivalActual": false,
+        "realtimeDeparture": "1909",
+        "realtimeDepartureActual": false,
+        "platform": "A",
+        "platformConfirmed": false,
+        "platformChanged": false,
+        "displayAs": "CALL"
+      },
+      "serviceUid": "G88451",
+      "runDate": "2023-01-17",
+      "trainIdentity": "9U05",
+      "runningIdentity": "9U05",
+      "atocCode": "XR",
+      "atocName": "Elizabeth line",
+      "serviceType": "train",
+      "isPassenger": true
+    },
+    {
+      "locationDetail": {
+        "realtimeActivated": true,
+        "tiploc": "PADTON",
+        "crs": "PAD",
+        "description": "London Paddington",
+        "gbttBookedDeparture": "1910",
+        "origin": [
+          {
+            "tiploc": "PADTON",
+            "description": "London Paddington",
+            "workingTime": "191000",
+            "publicTime": "1910"
+          }
+        ],
+        "destination": [
+          {
+            "tiploc": "HTRWTM5",
+            "description": "Heathrow Airport Terminal 5",
+            "workingTime": "193100",
+            "publicTime": "1931"
+          }
+        ],
+        "isCall": true,
+        "isPublicCall": true,
+        "realtimeDeparture": "1910",
+        "realtimeDepartureActual": false,
+        "platform": "6",
+        "platformConfirmed": true,
+        "platformChanged": false,
+        "serviceLocation": "AT_PLAT",
+        "displayAs": "ORIGIN"
+      },
+      "serviceUid": "C46928",
+      "runDate": "2023-01-17",
+      "trainIdentity": "1T80",
+      "runningIdentity": "1T80",
+      "atocCode": "HX",
+      "atocName": "Heathrow Express",
+      "serviceType": "train",
+      "isPassenger": true
+    },
+    {
+      "locationDetail": {
+        "realtimeActivated": true,
+        "tiploc": "PADTLL",
+        "crs": "PAD",
+        "description": "London Paddington",
+        "gbttBookedArrival": "1911",
+        "gbttBookedDeparture": "1912",
+        "origin": [
+          {
+            "tiploc": "ABWDXR",
+            "description": "Abbey Wood",
+            "workingTime": "184200",
+            "publicTime": "1842"
+          }
+        ],
+        "destination": [
+          {
+            "tiploc": "RDNGSTN",
+            "description": "Reading",
+            "workingTime": "201300",
+            "publicTime": "2013"
+          }
+        ],
+        "isCall": true,
+        "isPublicCall": true,
+        "realtimeArrival": "1911",
+        "realtimeArrivalActual": false,
+        "realtimeDeparture": "1912",
+        "realtimeDepartureActual": false,
+        "platform": "B",
+        "platformConfirmed": false,
+        "platformChanged": false,
+        "displayAs": "CALL"
+      },
+      "serviceUid": "G88131",
+      "runDate": "2023-01-17",
+      "trainIdentity": "9R08",
+      "runningIdentity": "9R08",
+      "atocCode": "XR",
+      "atocName": "Elizabeth line",
+      "serviceType": "train",
+      "isPassenger": true
+    },
+    {
+      "locationDetail": {
+        "realtimeActivated": true,
+        "tiploc": "PADTLL",
+        "crs": "PAD",
+        "description": "London Paddington",
+        "gbttBookedDeparture": "1912",
+        "origin": [
+          {
+            "tiploc": "PADTLL",
+            "description": "London Paddington",
+            "workingTime": "191200",
+            "publicTime": "1912"
+          }
+        ],
+        "destination": [
+          {
+            "tiploc": "ABWDXR",
+            "description": "Abbey Wood",
+            "workingTime": "194400",
+            "publicTime": "1944"
+          }
+        ],
+        "isCall": true,
+        "isPublicCall": true,
+        "realtimeDeparture": "1912",
+        "realtimeDepartureActual": false,
+        "platform": "A",
+        "platformConfirmed": false,
+        "platformChanged": false,
+        "displayAs": "ORIGIN"
+      },
+      "serviceUid": "G88453",
+      "runDate": "2023-01-17",
+      "trainIdentity": "9U06",
+      "runningIdentity": "9U06",
+      "atocCode": "XR",
+      "atocName": "Elizabeth line",
+      "serviceType": "train",
+      "isPassenger": true
+    },
+    {
+      "locationDetail": {
+        "realtimeActivated": true,
+        "tiploc": "PADTLL",
+        "crs": "PAD",
+        "description": "London Paddington",
+        "gbttBookedDeparture": "1915",
+        "origin": [
+          {
+            "tiploc": "PADTLL",
+            "description": "London Paddington",
+            "workingTime": "191500",
+            "publicTime": "1915"
+          }
+        ],
+        "destination": [
+          {
+            "tiploc": "SHENFLD",
+            "description": "Shenfield",
+            "workingTime": "200800",
+            "publicTime": "2008"
+          }
+        ],
+        "isCall": true,
+        "isPublicCall": true,
+        "realtimeDeparture": "1915",
+        "realtimeDepartureActual": false,
+        "platform": "A",
+        "platformConfirmed": false,
+        "platformChanged": false,
+        "displayAs": "ORIGIN"
+      },
+      "serviceUid": "G88874",
+      "runDate": "2023-01-17",
+      "trainIdentity": "9W08",
+      "runningIdentity": "9W08",
+      "atocCode": "XR",
+      "atocName": "Elizabeth line",
+      "serviceType": "train",
+      "isPassenger": true
+    },
+    {
+      "locationDetail": {
+        "realtimeActivated": true,
+        "tiploc": "PADTLL",
+        "crs": "PAD",
+        "description": "London Paddington",
+        "gbttBookedArrival": "1917",
+        "gbttBookedDeparture": "1918",
+        "origin": [
+          {
+            "tiploc": "ABWDXR",
+            "description": "Abbey Wood",
+            "workingTime": "184800",
+            "publicTime": "1848"
+          }
+        ],
+        "destination": [
+          {
+            "tiploc": "HTRWTM4",
+            "description": "Heathrow Airport Terminal 4",
+            "workingTime": "195500",
+            "publicTime": "1955"
+          }
+        ],
+        "isCall": true,
+        "isPublicCall": true,
+        "realtimeArrival": "1917",
+        "realtimeArrivalActual": false,
+        "realtimeDeparture": "1918",
+        "realtimeDepartureActual": false,
+        "platform": "B",
+        "platformConfirmed": false,
+        "platformChanged": false,
+        "displayAs": "CALL"
+      },
+      "serviceUid": "G88246",
+      "runDate": "2023-01-17",
+      "trainIdentity": "9T10",
+      "runningIdentity": "9T10",
+      "atocCode": "XR",
+      "atocName": "Elizabeth line",
+      "serviceType": "train",
+      "isPassenger": true
+    },
+    {
+      "locationDetail": {
+        "realtimeActivated": true,
+        "tiploc": "PADTON",
+        "crs": "PAD",
+        "description": "London Paddington",
+        "gbttBookedDeparture": "1918",
+        "origin": [
+          {
+            "tiploc": "PADTON",
+            "description": "London Paddington",
+            "workingTime": "191800",
+            "publicTime": "1918"
+          }
+        ],
+        "destination": [
+          {
+            "tiploc": "SWANSEA",
+            "description": "Swansea",
+            "workingTime": "221700",
+            "publicTime": "2217"
+          }
+        ],
+        "isCall": true,
+        "isPublicCall": true,
+        "realtimeDeparture": "1918",
+        "realtimeDepartureActual": false,
+        "platform": "3",
+        "platformConfirmed": true,
+        "platformChanged": false,
+        "serviceLocation": "AT_PLAT",
+        "displayAs": "ORIGIN"
+      },
+      "serviceUid": "G36796",
+      "runDate": "2023-01-17",
+      "trainIdentity": "1B31",
+      "runningIdentity": "1B31",
+      "atocCode": "GW",
+      "atocName": "Great Western Railway",
+      "serviceType": "train",
+      "isPassenger": true
+    },
+    {
+      "locationDetail": {
+        "realtimeActivated": true,
+        "tiploc": "PADTLL",
+        "crs": "PAD",
+        "description": "London Paddington",
+        "gbttBookedArrival": "1917",
+        "gbttBookedDeparture": "1919",
+        "origin": [
+          {
+            "tiploc": "RDNGSTN",
+            "description": "Reading",
+            "workingTime": "181700",
+            "publicTime": "1817"
+          }
+        ],
+        "destination": [
+          {
+            "tiploc": "ABWDXR",
+            "description": "Abbey Wood",
+            "workingTime": "195000",
+            "publicTime": "1950"
+          }
+        ],
+        "isCall": true,
+        "isPublicCall": true,
+        "realtimeArrival": "1917",
+        "realtimeArrivalActual": false,
+        "realtimeDeparture": "1919",
+        "realtimeDepartureActual": false,
+        "platform": "A",
+        "platformConfirmed": false,
+        "platformChanged": false,
+        "displayAs": "CALL"
+      },
+      "serviceUid": "G88466",
+      "runDate": "2023-01-17",
+      "trainIdentity": "9U09",
+      "runningIdentity": "9U09",
+      "atocCode": "XR",
+      "atocName": "Elizabeth line",
+      "serviceType": "train",
+      "isPassenger": true
+    },
+    {
+      "locationDetail": {
+        "realtimeActivated": true,
+        "tiploc": "PADTON",
+        "crs": "PAD",
+        "description": "London Paddington",
+        "gbttBookedDeparture": "1920",
+        "origin": [
+          {
+            "tiploc": "PADTON",
+            "description": "London Paddington",
+            "workingTime": "192000",
+            "publicTime": "1920"
+          }
+        ],
+        "destination": [
+          {
+            "tiploc": "DIDCOTP",
+            "description": "Didcot Parkway",
+            "workingTime": "202300",
+            "publicTime": "2023"
+          }
+        ],
+        "isCall": true,
+        "isPublicCall": true,
+        "realtimeDeparture": "1920",
+        "realtimeDepartureActual": false,
+        "platform": "10",
+        "platformConfirmed": true,
+        "platformChanged": false,
+        "serviceLocation": "AT_PLAT",
+        "displayAs": "ORIGIN"
+      },
+      "serviceUid": "G36873",
+      "runDate": "2023-01-17",
+      "trainIdentity": "1D80",
+      "runningIdentity": "1D80",
+      "atocCode": "GW",
+      "atocName": "Great Western Railway",
+      "serviceType": "train",
+      "isPassenger": true
+    },
+    {
+      "locationDetail": {
+        "realtimeActivated": true,
+        "tiploc": "PADTLL",
+        "crs": "PAD",
+        "description": "London Paddington",
+        "gbttBookedDeparture": "1922",
+        "origin": [
+          {
+            "tiploc": "PADTLL",
+            "description": "London Paddington",
+            "workingTime": "192200",
+            "publicTime": "1922"
+          }
+        ],
+        "destination": [
+          {
+            "tiploc": "SHENFLD",
+            "description": "Shenfield",
+            "workingTime": "201600",
+            "publicTime": "2016"
+          }
+        ],
+        "isCall": true,
+        "isPublicCall": true,
+        "realtimeDeparture": "1922",
+        "realtimeDepartureActual": false,
+        "platform": "A",
+        "platformConfirmed": false,
+        "platformChanged": false,
+        "displayAs": "ORIGIN"
+      },
+      "serviceUid": "G88880",
+      "runDate": "2023-01-17",
+      "trainIdentity": "9W10",
+      "runningIdentity": "9W10",
+      "atocCode": "XR",
+      "atocName": "Elizabeth line",
+      "serviceType": "train",
+      "isPassenger": true
+    },
+    {
+      "locationDetail": {
+        "realtimeActivated": true,
+        "tiploc": "PADTLL",
+        "crs": "PAD",
+        "description": "London Paddington",
+        "gbttBookedArrival": "1923",
+        "gbttBookedDeparture": "1924",
+        "origin": [
+          {
+            "tiploc": "ABWDXR",
+            "description": "Abbey Wood",
+            "workingTime": "185400",
+            "publicTime": "1854"
+          }
+        ],
+        "destination": [
+          {
+            "tiploc": "MDNHEAD",
+            "description": "Maidenhead",
+            "workingTime": "201400",
+            "publicTime": "2014"
+          }
+        ],
+        "isCall": true,
+        "isPublicCall": true,
+        "realtimeArrival": "1923",
+        "realtimeArrivalActual": false,
+        "realtimeDeparture": "1924",
+        "realtimeDepartureActual": false,
+        "platform": "B",
+        "platformConfirmed": false,
+        "platformChanged": false,
+        "displayAs": "CALL"
+      },
+      "serviceUid": "G88058",
+      "runDate": "2023-01-17",
+      "trainIdentity": "9N12",
+      "runningIdentity": "9N12",
+      "atocCode": "XR",
+      "atocName": "Elizabeth line",
+      "serviceType": "train",
+      "isPassenger": true
+    },
+    {
+      "locationDetail": {
+        "realtimeActivated": true,
+        "tiploc": "PADTON",
+        "crs": "PAD",
+        "description": "London Paddington",
+        "gbttBookedDeparture": "1925",
+        "origin": [
+          {
+            "tiploc": "PADTON",
+            "description": "London Paddington",
+            "workingTime": "192500",
+            "publicTime": "1925"
+          }
+        ],
+        "destination": [
+          {
+            "tiploc": "HTRWTM5",
+            "description": "Heathrow Airport Terminal 5",
+            "workingTime": "194600",
+            "publicTime": "1946"
+          }
+        ],
+        "isCall": true,
+        "isPublicCall": true,
+        "realtimeDeparture": "1925",
+        "realtimeDepartureActual": false,
+        "platform": "7",
+        "platformConfirmed": false,
+        "platformChanged": false,
+        "displayAs": "ORIGIN"
+      },
+      "serviceUid": "C46931",
+      "runDate": "2023-01-17",
+      "trainIdentity": "1T81",
+      "runningIdentity": "1T81",
+      "atocCode": "HX",
+      "atocName": "Heathrow Express",
+      "serviceType": "train",
+      "isPassenger": true
+    },
+    {
+      "locationDetail": {
+        "realtimeActivated": true,
+        "tiploc": "PADTON",
+        "crs": "PAD",
+        "description": "London Paddington",
+        "gbttBookedDeparture": "1925",
+        "origin": [
+          {
+            "tiploc": "PADTON",
+            "description": "London Paddington",
+            "workingTime": "192500",
+            "publicTime": "1925"
+          }
+        ],
+        "destination": [
+          {
+            "tiploc": "DIDCOTP",
+            "description": "Didcot Parkway",
+            "workingTime": "205000",
+            "publicTime": "2050"
+          }
+        ],
+        "isCall": true,
+        "isPublicCall": true,
+        "realtimeDeparture": "1925",
+        "realtimeDepartureActual": false,
+        "platform": "14",
+        "platformConfirmed": false,
+        "platformChanged": false,
+        "displayAs": "ORIGIN"
+      },
+      "serviceUid": "G38152",
+      "runDate": "2023-01-17",
+      "trainIdentity": "2N60",
+      "runningIdentity": "2N60",
+      "atocCode": "GW",
+      "atocName": "Great Western Railway",
+      "serviceType": "train",
+      "isPassenger": true
+    },
+    {
+      "locationDetail": {
+        "realtimeActivated": true,
+        "tiploc": "PADTLL",
+        "crs": "PAD",
+        "description": "London Paddington",
+        "gbttBookedArrival": "1924",
+        "gbttBookedDeparture": "1926",
+        "origin": [
+          {
+            "tiploc": "HTRWTM4",
+            "description": "Heathrow Airport Terminal 4",
+            "workingTime": "184600",
+            "publicTime": "1846"
+          }
+        ],
+        "destination": [
+          {
+            "tiploc": "ABWDXR",
+            "description": "Abbey Wood",
+            "workingTime": "195600",
+            "publicTime": "1956"
+          }
+        ],
+        "isCall": true,
+        "isPublicCall": true,
+        "realtimeArrival": "1924",
+        "realtimeArrivalActual": false,
+        "realtimeDeparture": "1926",
+        "realtimeDepartureActual": false,
+        "platform": "A",
+        "platformConfirmed": false,
+        "platformChanged": false,
+        "displayAs": "CALL"
+      },
+      "serviceUid": "G88476",
+      "runDate": "2023-01-17",
+      "trainIdentity": "9U11",
+      "runningIdentity": "9U11",
+      "atocCode": "XR",
+      "atocName": "Elizabeth line",
+      "serviceType": "train",
+      "isPassenger": true
+    },
+    {
+      "locationDetail": {
+        "realtimeActivated": true,
+        "tiploc": "PADTON",
+        "crs": "PAD",
+        "description": "London Paddington",
+        "gbttBookedDeparture": "1928",
+        "origin": [
+          {
+            "tiploc": "PADTON",
+            "description": "London Paddington",
+            "workingTime": "192800",
+            "publicTime": "1928"
+          }
+        ],
+        "destination": [
+          {
+            "tiploc": "WORCSSH",
+            "description": "Worcester Shrub Hill",
+            "workingTime": "220800",
+            "publicTime": "2208"
+          }
+        ],
+        "isCall": true,
+        "isPublicCall": true,
+        "realtimeDeparture": "1928",
+        "realtimeDepartureActual": false,
+        "platform": "9",
+        "platformConfirmed": false,
+        "platformChanged": false,
+        "displayAs": "ORIGIN"
+      },
+      "serviceUid": "G36927",
+      "runDate": "2023-01-17",
+      "trainIdentity": "1G29",
+      "runningIdentity": "1G29",
+      "atocCode": "GW",
+      "atocName": "Great Western Railway",
+      "serviceType": "train",
+      "isPassenger": true
+    },
+    {
+      "locationDetail": {
+        "realtimeActivated": true,
+        "tiploc": "PADTLL",
+        "crs": "PAD",
+        "description": "London Paddington",
+        "gbttBookedDeparture": "1930",
+        "origin": [
+          {
+            "tiploc": "PADTLL",
+            "description": "London Paddington",
+            "workingTime": "193000",
+            "publicTime": "1930"
+          }
+        ],
+        "destination": [
+          {
+            "tiploc": "SHENFLD",
+            "description": "Shenfield",
+            "workingTime": "202300",
+            "publicTime": "2023"
+          }
+        ],
+        "isCall": true,
+        "isPublicCall": true,
+        "realtimeDeparture": "1930",
+        "realtimeDepartureActual": false,
+        "platform": "A",
+        "platformConfirmed": false,
+        "platformChanged": false,
+        "displayAs": "ORIGIN"
+      },
+      "serviceUid": "G88895",
+      "runDate": "2023-01-17",
+      "trainIdentity": "9W14",
+      "runningIdentity": "9W14",
+      "atocCode": "XR",
+      "atocName": "Elizabeth line",
+      "serviceType": "train",
+      "isPassenger": true
+    },
+    {
+      "locationDetail": {
+        "realtimeActivated": true,
+        "tiploc": "PADTON",
+        "crs": "PAD",
+        "description": "London Paddington",
+        "gbttBookedDeparture": "1930",
+        "origin": [
+          {
+            "tiploc": "PADTON",
+            "description": "London Paddington",
+            "workingTime": "193000",
+            "publicTime": "1930"
+          }
+        ],
+        "destination": [
+          {
+            "tiploc": "OXFD",
+            "description": "Oxford",
+            "workingTime": "201800",
+            "publicTime": "2018"
+          }
+        ],
+        "isCall": true,
+        "isPublicCall": true,
+        "realtimeDeparture": "1930",
+        "realtimeDepartureActual": false,
+        "platform": "5",
+        "platformConfirmed": false,
+        "platformChanged": false,
+        "displayAs": "ORIGIN"
+      },
+      "serviceUid": "G36863",
+      "runDate": "2023-01-17",
+      "trainIdentity": "1D38",
+      "runningIdentity": "1D38",
+      "atocCode": "GW",
+      "atocName": "Great Western Railway",
+      "serviceType": "train",
+      "isPassenger": true
+    },
+    {
+      "locationDetail": {
+        "realtimeActivated": true,
+        "tiploc": "PADTLL",
+        "crs": "PAD",
+        "description": "London Paddington",
+        "gbttBookedArrival": "1929",
+        "gbttBookedDeparture": "1930",
+        "origin": [
+          {
+            "tiploc": "ABWDXR",
+            "description": "Abbey Wood",
+            "workingTime": "190000",
+            "publicTime": "1900"
+          }
+        ],
+        "destination": [
+          {
+            "tiploc": "HTRWTM5",
+            "description": "Heathrow Airport Terminal 5",
+            "workingTime": "200700",
+            "publicTime": "2007"
+          }
+        ],
+        "isCall": true,
+        "isPublicCall": true,
+        "realtimeArrival": "1929",
+        "realtimeArrivalActual": false,
+        "realtimeDeparture": "1930",
+        "realtimeDepartureActual": false,
+        "platform": "B",
+        "platformConfirmed": false,
+        "platformChanged": false,
+        "displayAs": "CALL"
+      },
+      "serviceUid": "G88253",
+      "runDate": "2023-01-17",
+      "trainIdentity": "9T14",
+      "runningIdentity": "9T14",
+      "atocCode": "XR",
+      "atocName": "Elizabeth line",
+      "serviceType": "train",
+      "isPassenger": true
+    },
+    {
+      "locationDetail": {
+        "realtimeActivated": true,
+        "tiploc": "PADTON",
+        "crs": "PAD",
+        "description": "London Paddington",
+        "gbttBookedDeparture": "1932",
+        "origin": [
+          {
+            "tiploc": "PADTON",
+            "description": "London Paddington",
+            "workingTime": "193300",
+            "publicTime": "1932"
+          }
+        ],
+        "destination": [
+          {
+            "tiploc": "WSMARE",
+            "description": "Weston-super-Mare",
+            "workingTime": "215000",
+            "publicTime": "2150"
+          }
+        ],
+        "isCall": true,
+        "isPublicCall": true,
+        "realtimeDeparture": "1933",
+        "realtimeDepartureActual": false,
+        "platform": "11",
+        "platformConfirmed": false,
+        "platformChanged": false,
+        "displayAs": "ORIGIN"
+      },
+      "serviceUid": "G36834",
+      "runDate": "2023-01-17",
+      "trainIdentity": "1C31",
+      "runningIdentity": "1C31",
+      "atocCode": "GW",
+      "atocName": "Great Western Railway",
+      "serviceType": "train",
+      "isPassenger": true
+    },
+    {
+      "locationDetail": {
+        "realtimeActivated": true,
+        "tiploc": "PADTLL",
+        "crs": "PAD",
+        "description": "London Paddington",
+        "gbttBookedArrival": "1932",
+        "gbttBookedDeparture": "1934",
+        "origin": [
+          {
+            "tiploc": "RDNGSTN",
+            "description": "Reading",
+            "workingTime": "182800",
+            "publicTime": "1828"
+          }
+        ],
+        "destination": [
+          {
+            "tiploc": "ABWDXR",
+            "description": "Abbey Wood",
+            "workingTime": "200400",
+            "publicTime": "2004"
+          }
+        ],
+        "isCall": true,
+        "isPublicCall": true,
+        "realtimeArrival": "1932",
+        "realtimeArrivalActual": false,
+        "realtimeDeparture": "1934",
+        "realtimeDepartureActual": false,
+        "platform": "A",
+        "platformConfirmed": false,
+        "platformChanged": false,
+        "displayAs": "CALL"
+      },
+      "serviceUid": "G88491",
+      "runDate": "2023-01-17",
+      "trainIdentity": "9U15",
+      "runningIdentity": "9U15",
+      "atocCode": "XR",
+      "atocName": "Elizabeth line",
+      "serviceType": "train",
+      "isPassenger": true
+    },
+    {
+      "locationDetail": {
+        "realtimeActivated": true,
+        "tiploc": "PADTLL",
+        "crs": "PAD",
+        "description": "London Paddington",
+        "gbttBookedDeparture": "1937",
+        "origin": [
+          {
+            "tiploc": "PADTLL",
+            "description": "London Paddington",
+            "workingTime": "193700",
+            "publicTime": "1937"
+          }
+        ],
+        "destination": [
+          {
+            "tiploc": "SHENFLD",
+            "description": "Shenfield",
+            "workingTime": "203000",
+            "publicTime": "2030"
+          }
+        ],
+        "isCall": true,
+        "isPublicCall": true,
+        "realtimeDeparture": "1937",
+        "realtimeDepartureActual": false,
+        "platform": "A",
+        "platformConfirmed": false,
+        "platformChanged": false,
+        "displayAs": "ORIGIN"
+      },
+      "serviceUid": "G88902",
+      "runDate": "2023-01-17",
+      "trainIdentity": "9W16",
+      "runningIdentity": "9W16",
+      "atocCode": "XR",
+      "atocName": "Elizabeth line",
+      "serviceType": "train",
+      "isPassenger": true
+    },
+    {
+      "locationDetail": {
+        "realtimeActivated": true,
+        "tiploc": "PADTON",
+        "crs": "PAD",
+        "description": "London Paddington",
+        "gbttBookedDeparture": "1940",
+        "origin": [
+          {
+            "tiploc": "PADTON",
+            "description": "London Paddington",
+            "workingTime": "194000",
+            "publicTime": "1940"
+          }
+        ],
+        "destination": [
+          {
+            "tiploc": "HTRWTM5",
+            "description": "Heathrow Airport Terminal 5",
+            "workingTime": "200100",
+            "publicTime": "2001"
+          }
+        ],
+        "isCall": true,
+        "isPublicCall": true,
+        "realtimeDeparture": "1940",
+        "realtimeDepartureActual": false,
+        "platform": "6",
+        "platformConfirmed": false,
+        "platformChanged": false,
+        "displayAs": "ORIGIN"
+      },
+      "serviceUid": "C46934",
+      "runDate": "2023-01-17",
+      "trainIdentity": "1T82",
+      "runningIdentity": "1T82",
+      "atocCode": "HX",
+      "atocName": "Heathrow Express",
+      "serviceType": "train",
+      "isPassenger": true
+    },
+    {
+      "locationDetail": {
+        "realtimeActivated": true,
+        "tiploc": "PADTLL",
+        "crs": "PAD",
+        "description": "London Paddington",
+        "gbttBookedArrival": "1939",
+        "gbttBookedDeparture": "1941",
+        "origin": [
+          {
+            "tiploc": "HTRWTM5",
+            "description": "Heathrow Airport Terminal 5",
+            "workingTime": "190100",
+            "publicTime": "1901"
+          }
+        ],
+        "destination": [
+          {
+            "tiploc": "ABWDXR",
+            "description": "Abbey Wood",
+            "workingTime": "201100",
+            "publicTime": "2011"
+          }
+        ],
+        "isCall": true,
+        "isPublicCall": true,
+        "realtimeArrival": "1939",
+        "realtimeArrivalActual": false,
+        "realtimeDeparture": "1941",
+        "realtimeDepartureActual": false,
+        "platform": "A",
+        "platformConfirmed": false,
+        "platformChanged": false,
+        "displayAs": "CALL"
+      },
+      "serviceUid": "G88502",
+      "runDate": "2023-01-17",
+      "trainIdentity": "9U17",
+      "runningIdentity": "9U17",
+      "atocCode": "XR",
+      "atocName": "Elizabeth line",
+      "serviceType": "train",
+      "isPassenger": true
+    },
+    {
+      "locationDetail": {
+        "realtimeActivated": true,
+        "tiploc": "PADTLL",
+        "crs": "PAD",
+        "description": "London Paddington",
+        "gbttBookedArrival": "1941",
+        "gbttBookedDeparture": "1942",
+        "origin": [
+          {
+            "tiploc": "ABWDXR",
+            "description": "Abbey Wood",
+            "workingTime": "191200",
+            "publicTime": "1912"
+          }
+        ],
+        "destination": [
+          {
+            "tiploc": "RDNGSTN",
+            "description": "Reading",
+            "workingTime": "204300",
+            "publicTime": "2043"
+          }
+        ],
+        "isCall": true,
+        "isPublicCall": true,
+        "realtimeArrival": "1941",
+        "realtimeArrivalActual": false,
+        "realtimeDeparture": "1942",
+        "realtimeDepartureActual": false,
+        "platform": "B",
+        "platformConfirmed": false,
+        "platformChanged": false,
+        "displayAs": "CALL"
+      },
+      "serviceUid": "G88141",
+      "runDate": "2023-01-17",
+      "trainIdentity": "9R18",
+      "runningIdentity": "9R18",
+      "atocCode": "XR",
+      "atocName": "Elizabeth line",
+      "serviceType": "train",
+      "isPassenger": true
+    },
+    {
+      "locationDetail": {
+        "realtimeActivated": true,
+        "tiploc": "PADTLL",
+        "crs": "PAD",
+        "description": "London Paddington",
+        "gbttBookedDeparture": "1945",
+        "origin": [
+          {
+            "tiploc": "PADTLL",
+            "description": "London Paddington",
+            "workingTime": "194500",
+            "publicTime": "1945"
+          }
+        ],
+        "destination": [
+          {
+            "tiploc": "SHENFLD",
+            "description": "Shenfield",
+            "workingTime": "203800",
+            "publicTime": "2038"
+          }
+        ],
+        "isCall": true,
+        "isPublicCall": true,
+        "realtimeDeparture": "1945",
+        "realtimeDepartureActual": false,
+        "platform": "A",
+        "platformConfirmed": false,
+        "platformChanged": false,
+        "displayAs": "ORIGIN"
+      },
+      "serviceUid": "G88918",
+      "runDate": "2023-01-17",
+      "trainIdentity": "9W20",
+      "runningIdentity": "9W20",
+      "atocCode": "XR",
+      "atocName": "Elizabeth line",
+      "serviceType": "train",
+      "isPassenger": true
+    },
+    {
+      "locationDetail": {
+        "realtimeActivated": true,
+        "tiploc": "PADTON",
+        "crs": "PAD",
+        "description": "London Paddington",
+        "gbttBookedDeparture": "1948",
+        "origin": [
+          {
+            "tiploc": "PADTON",
+            "description": "London Paddington",
+            "workingTime": "194800",
+            "publicTime": "1948"
+          }
+        ],
+        "destination": [
+          {
+            "tiploc": "SWANSEA",
+            "description": "Swansea",
+            "workingTime": "223400",
+            "publicTime": "2234"
+          }
+        ],
+        "isCall": true,
+        "isPublicCall": true,
+        "realtimeDeparture": "1948",
+        "realtimeDepartureActual": false,
+        "platform": "2",
+        "platformConfirmed": false,
+        "platformChanged": false,
+        "displayAs": "ORIGIN"
+      },
+      "serviceUid": "G36797",
+      "runDate": "2023-01-17",
+      "trainIdentity": "1B32",
+      "runningIdentity": "1B32",
+      "atocCode": "GW",
+      "atocName": "Great Western Railway",
+      "serviceType": "train",
+      "isPassenger": true
+    },
+    {
+      "locationDetail": {
+        "realtimeActivated": true,
+        "tiploc": "PADTLL",
+        "crs": "PAD",
+        "description": "London Paddington",
+        "gbttBookedArrival": "1947",
+        "gbttBookedDeparture": "1948",
+        "origin": [
+          {
+            "tiploc": "ABWDXR",
+            "description": "Abbey Wood",
+            "workingTime": "191800",
+            "publicTime": "1918"
+          }
+        ],
+        "destination": [
+          {
+            "tiploc": "HTRWTM4",
+            "description": "Heathrow Airport Terminal 4",
+            "workingTime": "202500",
+            "publicTime": "2025"
+          }
+        ],
+        "isCall": true,
+        "isPublicCall": true,
+        "realtimeArrival": "1947",
+        "realtimeArrivalActual": false,
+        "realtimeDeparture": "1948",
+        "realtimeDepartureActual": false,
+        "platform": "B",
+        "platformConfirmed": false,
+        "platformChanged": false,
+        "displayAs": "CALL"
+      },
+      "serviceUid": "G88267",
+      "runDate": "2023-01-17",
+      "trainIdentity": "9T20",
+      "runningIdentity": "9T20",
+      "atocCode": "XR",
+      "atocName": "Elizabeth line",
+      "serviceType": "train",
+      "isPassenger": true
+    },
+    {
+      "locationDetail": {
+        "realtimeActivated": true,
+        "tiploc": "PADTLL",
+        "crs": "PAD",
+        "description": "London Paddington",
+        "gbttBookedArrival": "1947",
+        "gbttBookedDeparture": "1949",
+        "origin": [
+          {
+            "tiploc": "RDNGSTN",
+            "description": "Reading",
+            "workingTime": "184700",
+            "publicTime": "1847"
+          }
+        ],
+        "destination": [
+          {
+            "tiploc": "ABWDXR",
+            "description": "Abbey Wood",
+            "workingTime": "201900",
+            "publicTime": "2019"
+          }
+        ],
+        "isCall": true,
+        "isPublicCall": true,
+        "realtimeArrival": "1947",
+        "realtimeArrivalActual": false,
+        "realtimeDeparture": "1949",
+        "realtimeDepartureActual": false,
+        "platform": "A",
+        "platformConfirmed": false,
+        "platformChanged": false,
+        "displayAs": "CALL"
+      },
+      "serviceUid": "G88518",
+      "runDate": "2023-01-17",
+      "trainIdentity": "9U21",
+      "runningIdentity": "9U21",
+      "atocCode": "XR",
+      "atocName": "Elizabeth line",
+      "serviceType": "train",
+      "isPassenger": true
+    },
+    {
+      "locationDetail": {
+        "realtimeActivated": true,
+        "tiploc": "PADTON",
+        "crs": "PAD",
+        "description": "London Paddington",
+        "gbttBookedDeparture": "1950",
+        "origin": [
+          {
+            "tiploc": "PADTON",
+            "description": "London Paddington",
+            "workingTime": "195000",
+            "publicTime": "1950"
+          }
+        ],
+        "destination": [
+          {
+            "tiploc": "HEREFRD",
+            "description": "Hereford",
+            "workingTime": "225800",
+            "publicTime": "2258"
+          }
+        ],
+        "isCall": true,
+        "isPublicCall": true,
+        "realtimeDeparture": "1950",
+        "realtimeDepartureActual": false,
+        "platform": "8",
+        "platformConfirmed": true,
+        "platformChanged": true,
+        "serviceLocation": "AT_PLAT",
+        "displayAs": "ORIGIN"
+      },
+      "serviceUid": "G37190",
+      "runDate": "2023-01-17",
+      "trainIdentity": "1W05",
+      "runningIdentity": "1W05",
+      "atocCode": "GW",
+      "atocName": "Great Western Railway",
+      "serviceType": "train",
+      "isPassenger": true
+    },
+    {
+      "locationDetail": {
+        "realtimeActivated": true,
+        "tiploc": "PADTLL",
+        "crs": "PAD",
+        "description": "London Paddington",
+        "gbttBookedDeparture": "1952",
+        "origin": [
+          {
+            "tiploc": "PADTLL",
+            "description": "London Paddington",
+            "workingTime": "195200",
+            "publicTime": "1952"
+          }
+        ],
+        "destination": [
+          {
+            "tiploc": "SHENFLD",
+            "description": "Shenfield",
+            "workingTime": "204500",
+            "publicTime": "2045"
+          }
+        ],
+        "isCall": true,
+        "isPublicCall": true,
+        "realtimeDeparture": "1952",
+        "realtimeDepartureActual": false,
+        "platform": "A",
+        "platformConfirmed": false,
+        "platformChanged": false,
+        "displayAs": "ORIGIN"
+      },
+      "serviceUid": "G88925",
+      "runDate": "2023-01-17",
+      "trainIdentity": "9W22",
+      "runningIdentity": "9W22",
+      "atocCode": "XR",
+      "atocName": "Elizabeth line",
+      "serviceType": "train",
+      "isPassenger": true
+    },
+    {
+      "locationDetail": {
+        "realtimeActivated": true,
+        "tiploc": "PADTON",
+        "crs": "PAD",
+        "description": "London Paddington",
+        "gbttBookedDeparture": "1954",
+        "origin": [
+          {
+            "tiploc": "PADTON",
+            "description": "London Paddington",
+            "workingTime": "195400",
+            "publicTime": "1954"
+          }
+        ],
+        "destination": [
+          {
+            "tiploc": "DIDCOTP",
+            "description": "Didcot Parkway",
+            "workingTime": "211800",
+            "publicTime": "2118"
+          }
+        ],
+        "isCall": true,
+        "isPublicCall": true,
+        "realtimeDeparture": "1954",
+        "realtimeDepartureActual": false,
+        "platform": "12",
+        "platformConfirmed": false,
+        "platformChanged": false,
+        "displayAs": "ORIGIN"
+      },
+      "serviceUid": "G38153",
+      "runDate": "2023-01-17",
+      "trainIdentity": "2N62",
+      "runningIdentity": "2N62",
+      "atocCode": "GW",
+      "atocName": "Great Western Railway",
+      "serviceType": "train",
+      "isPassenger": true
+    },
+    {
+      "locationDetail": {
+        "realtimeActivated": true,
+        "tiploc": "PADTLL",
+        "crs": "PAD",
+        "description": "London Paddington",
+        "gbttBookedArrival": "1953",
+        "gbttBookedDeparture": "1954",
+        "origin": [
+          {
+            "tiploc": "ABWDXR",
+            "description": "Abbey Wood",
+            "workingTime": "192400",
+            "publicTime": "1924"
+          }
+        ],
+        "destination": [
+          {
+            "tiploc": "MDNHEAD",
+            "description": "Maidenhead",
+            "workingTime": "204600",
+            "publicTime": "2046"
+          }
+        ],
+        "isCall": true,
+        "isPublicCall": true,
+        "realtimeArrival": "1953",
+        "realtimeArrivalActual": false,
+        "realtimeDeparture": "1954",
+        "realtimeDepartureActual": false,
+        "platform": "B",
+        "platformConfirmed": false,
+        "platformChanged": false,
+        "displayAs": "CALL"
+      },
+      "serviceUid": "G88065",
+      "runDate": "2023-01-17",
+      "trainIdentity": "9N22",
+      "runningIdentity": "9N22",
+      "atocCode": "XR",
+      "atocName": "Elizabeth line",
+      "serviceType": "train",
+      "isPassenger": true
+    },
+    {
+      "locationDetail": {
+        "realtimeActivated": true,
+        "tiploc": "PADTON",
+        "crs": "PAD",
+        "description": "London Paddington",
+        "gbttBookedDeparture": "1955",
+        "origin": [
+          {
+            "tiploc": "PADTON",
+            "description": "London Paddington",
+            "workingTime": "195500",
+            "publicTime": "1955"
+          }
+        ],
+        "destination": [
+          {
+            "tiploc": "HTRWTM5",
+            "description": "Heathrow Airport Terminal 5",
+            "workingTime": "201600",
+            "publicTime": "2016"
+          }
+        ],
+        "isCall": true,
+        "isPublicCall": true,
+        "realtimeDeparture": "1955",
+        "realtimeDepartureActual": false,
+        "platform": "7",
+        "platformConfirmed": false,
+        "platformChanged": false,
+        "displayAs": "ORIGIN"
+      },
+      "serviceUid": "C46937",
+      "runDate": "2023-01-17",
+      "trainIdentity": "1T83",
+      "runningIdentity": "1T83",
+      "atocCode": "HX",
+      "atocName": "Heathrow Express",
+      "serviceType": "train",
+      "isPassenger": true
+    },
+    {
+      "locationDetail": {
+        "realtimeActivated": true,
+        "tiploc": "PADTLL",
+        "crs": "PAD",
+        "description": "London Paddington",
+        "gbttBookedArrival": "1954",
+        "gbttBookedDeparture": "1956",
+        "origin": [
+          {
+            "tiploc": "HTRWTM4",
+            "description": "Heathrow Airport Terminal 4",
+            "workingTime": "191600",
+            "publicTime": "1916"
+          }
+        ],
+        "destination": [
+          {
+            "tiploc": "ABWDXR",
+            "description": "Abbey Wood",
+            "workingTime": "202600",
+            "publicTime": "2026"
+          }
+        ],
+        "isCall": true,
+        "isPublicCall": true,
+        "realtimeArrival": "1954",
+        "realtimeArrivalActual": false,
+        "realtimeDeparture": "1956",
+        "realtimeDepartureActual": false,
+        "platform": "A",
+        "platformConfirmed": false,
+        "platformChanged": false,
+        "displayAs": "CALL"
+      },
+      "serviceUid": "G88529",
+      "runDate": "2023-01-17",
+      "trainIdentity": "9U23",
+      "runningIdentity": "9U23",
+      "atocCode": "XR",
+      "atocName": "Elizabeth line",
+      "serviceType": "train",
+      "isPassenger": true
+    },
+    {
+      "locationDetail": {
+        "realtimeActivated": true,
+        "tiploc": "PADTLL",
+        "crs": "PAD",
+        "description": "London Paddington",
+        "gbttBookedArrival": "1959",
+        "gbttBookedDeparture": "2000",
+        "origin": [
+          {
+            "tiploc": "ABWDXR",
+            "description": "Abbey Wood",
+            "workingTime": "193000",
+            "publicTime": "1930"
+          }
+        ],
+        "destination": [
+          {
+            "tiploc": "HTRWTM5",
+            "description": "Heathrow Airport Terminal 5",
+            "workingTime": "203900",
+            "publicTime": "2039"
+          }
+        ],
+        "isCall": true,
+        "isPublicCall": true,
+        "realtimeArrival": "1959",
+        "realtimeArrivalActual": false,
+        "realtimeDeparture": "2000",
+        "realtimeDepartureActual": false,
+        "platform": "B",
+        "platformConfirmed": false,
+        "platformChanged": false,
+        "displayAs": "CALL"
+      },
+      "serviceUid": "G88275",
+      "runDate": "2023-01-17",
+      "trainIdentity": "9T24",
+      "runningIdentity": "9T24",
+      "atocCode": "XR",
+      "atocName": "Elizabeth line",
+      "serviceType": "train",
+      "isPassenger": true
+    },
+    {
+      "locationDetail": {
+        "realtimeActivated": true,
+        "tiploc": "PADTLL",
+        "crs": "PAD",
+        "description": "London Paddington",
+        "gbttBookedDeparture": "2000",
+        "origin": [
+          {
+            "tiploc": "PADTLL",
+            "description": "London Paddington",
+            "workingTime": "200000",
+            "publicTime": "2000"
+          }
+        ],
+        "destination": [
+          {
+            "tiploc": "SHENFLD",
+            "description": "Shenfield",
+            "workingTime": "205300",
+            "publicTime": "2053"
+          }
+        ],
+        "isCall": true,
+        "isPublicCall": true,
+        "realtimeDeparture": "2000",
+        "realtimeDepartureActual": false,
+        "platform": "A",
+        "platformConfirmed": false,
+        "platformChanged": false,
+        "displayAs": "ORIGIN"
+      },
+      "serviceUid": "G88943",
+      "runDate": "2023-01-17",
+      "trainIdentity": "9W26",
+      "runningIdentity": "9W26",
+      "atocCode": "XR",
+      "atocName": "Elizabeth line",
+      "serviceType": "train",
+      "isPassenger": true
+    },
+    {
+      "locationDetail": {
+        "realtimeActivated": true,
+        "tiploc": "PADTON",
+        "crs": "PAD",
+        "description": "London Paddington",
+        "gbttBookedDeparture": "2001",
+        "origin": [
+          {
+            "tiploc": "PADTON",
+            "description": "London Paddington",
+            "workingTime": "200100",
+            "publicTime": "2001"
+          }
+        ],
+        "destination": [
+          {
+            "tiploc": "BRSTLTM",
+            "description": "Bristol Temple Meads",
+            "workingTime": "213400",
+            "publicTime": "2134"
+          }
+        ],
+        "isCall": true,
+        "isPublicCall": true,
+        "realtimeDeparture": "2001",
+        "realtimeDepartureActual": false,
+        "platform": "5",
+        "platformConfirmed": false,
+        "platformChanged": false,
+        "displayAs": "ORIGIN"
+      },
+      "serviceUid": "G36835",
+      "runDate": "2023-01-17",
+      "trainIdentity": "1C32",
+      "runningIdentity": "1C32",
+      "atocCode": "GW",
+      "atocName": "Great Western Railway",
+      "serviceType": "train",
+      "isPassenger": true
+    },
+    {
+      "locationDetail": {
+        "realtimeActivated": true,
+        "tiploc": "PADTON",
+        "crs": "PAD",
+        "description": "London Paddington",
+        "gbttBookedDeparture": "2003",
+        "origin": [
+          {
+            "tiploc": "PADTON",
+            "description": "London Paddington",
+            "workingTime": "200300",
+            "publicTime": "2003"
+          }
+        ],
+        "destination": [
+          {
+            "tiploc": "PLYMTH",
+            "description": "Plymouth",
+            "workingTime": "233900",
+            "publicTime": "2339"
+          }
+        ],
+        "isCall": true,
+        "isPublicCall": true,
+        "realtimeDeparture": "2003",
+        "realtimeDepartureActual": false,
+        "platform": "3",
+        "platformConfirmed": false,
+        "platformChanged": false,
+        "displayAs": "ORIGIN"
+      },
+      "serviceUid": "G36852",
+      "runDate": "2023-01-17",
+      "trainIdentity": "1C96",
+      "runningIdentity": "1C96",
+      "atocCode": "GW",
+      "atocName": "Great Western Railway",
+      "serviceType": "train",
+      "isPassenger": true
+    },
+    {
+      "locationDetail": {
+        "realtimeActivated": true,
+        "tiploc": "PADTLL",
+        "crs": "PAD",
+        "description": "London Paddington",
+        "gbttBookedArrival": "2002",
+        "gbttBookedDeparture": "2004",
+        "origin": [
+          {
+            "tiploc": "RDNGSTN",
+            "description": "Reading",
+            "workingTime": "185800",
+            "publicTime": "1858"
+          }
+        ],
+        "destination": [
+          {
+            "tiploc": "ABWDXR",
+            "description": "Abbey Wood",
+            "workingTime": "203400",
+            "publicTime": "2034"
+          }
+        ],
+        "isCall": true,
+        "isPublicCall": true,
+        "realtimeArrival": "2002",
+        "realtimeArrivalActual": false,
+        "realtimeDeparture": "2004",
+        "realtimeDepartureActual": false,
+        "platform": "A",
+        "platformConfirmed": false,
+        "platformChanged": false,
+        "displayAs": "CALL"
+      },
+      "serviceUid": "G88546",
+      "runDate": "2023-01-17",
+      "trainIdentity": "9U27",
+      "runningIdentity": "9U27",
+      "atocCode": "XR",
+      "atocName": "Elizabeth line",
+      "serviceType": "train",
+      "isPassenger": true
+    },
+    {
+      "locationDetail": {
+        "realtimeActivated": true,
+        "tiploc": "PADTLL",
+        "crs": "PAD",
+        "description": "London Paddington",
+        "gbttBookedDeparture": "2007",
+        "origin": [
+          {
+            "tiploc": "PADTLL",
+            "description": "London Paddington",
+            "workingTime": "200700",
+            "publicTime": "2007"
+          }
+        ],
+        "destination": [
+          {
+            "tiploc": "SHENFLD",
+            "description": "Shenfield",
+            "workingTime": "210000",
+            "publicTime": "2100"
+          }
+        ],
+        "isCall": true,
+        "isPublicCall": true,
+        "realtimeDeparture": "2007",
+        "realtimeDepartureActual": false,
+        "platform": "A",
+        "platformConfirmed": false,
+        "platformChanged": false,
+        "displayAs": "ORIGIN"
+      },
+      "serviceUid": "G88950",
+      "runDate": "2023-01-17",
+      "trainIdentity": "9W28",
+      "runningIdentity": "9W28",
+      "atocCode": "XR",
+      "atocName": "Elizabeth line",
+      "serviceType": "train",
+      "isPassenger": true
+    }
+  ]
+}
