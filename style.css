@@ -1,0 +1,85 @@
+@font-face {
+    font-family: 'DottedText';
+    src: url('/text.ttf');
+}
+* {
+    font-size: 38px;
+  }
+  body {
+    background-color: black;
+    overflow: hidden; /* Hide scrollbars */
+    color: white;
+    font-family: 'DottedText', Fallback, sans-serif;
+  }
+  
+  #container {
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    color: #000;
+  }
+  
+td, th {
+    width: 25%; /* sets the width of each cell to 25% of the table width */
+    padding: 5px; /* reduce the padding to 5 pixels */
+    border-top: 1px solid #000; /* add a top border to the cells */
+}
+  
+  
+  td {
+    background-color: black;
+  }
+  
+  table {
+    width: 100%; /* make the table span the entire width of the page */
+  }
+  
+  th {
+    background-color: black; /* set the background color to black */
+    color: white; /* set the text color to white */
+  }
+  
+  #clock {
+    text-align: left;
+  }
+  
+  #trainTimes {
+    text-align: right;
+  }
+  
+  table {
+    border-collapse: collapse; /* collapse the borders of the table cells */
+  }
+  
+  td, th {
+    padding: 5px; /* reduce the padding to 5 pixels */
+    border-top: 1px solid #000; /* add a top border to the cells */
+  }
+  
+  td, th {
+    color: white; /* set the text color to white */
+  }
+  
+  marquee {
+      color: white;
+      background-color: black;
+      font-size: 46px;
+  }
+  
+  .trainTimes {
+      text-align: right;
+  }
+  
+  .trainMessages {
+      text-align: center;
+  }
+  
+  .smallerText {
+      font-size: 12px;
+  }
+  
