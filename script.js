@@ -1,5 +1,6 @@
 window.onload = function() {
-    fetch('http://<server_info>:8080/getData')
+    fetch('https://null.parr.lol/RealTimeTrains-Train-Boards/demo.json')
+    // edit above
       .then(response => response.json())
       .then(trains => {
         const trainList = document.getElementById('train-list');
